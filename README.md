@@ -17,3 +17,6 @@ In this project an application was developed with information about the solar sy
    * Make use of `props` correctly;
 
    * Make use of `PropTypes` to validate `component props`.
+
+**This project was developed during the Web Developer course at Trybe.** 
+
